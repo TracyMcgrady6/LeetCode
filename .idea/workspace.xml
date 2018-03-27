@@ -15,31 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Q104_maxDepth.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q104_maxDepth.py">
+      <file leaf-file-name="Q283_moveZeroes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q283_moveZeroes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="160">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q136_singleNumber.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q136_singleNumber.py">
+      <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TreeNode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,17 +50,18 @@
         <option value="$PROJECT_DIR$/Q121_MaxProfit.py" />
         <option value="$PROJECT_DIR$/Q1_TwoSum.py" />
         <option value="$PROJECT_DIR$/RomanToInt.py" />
-        <option value="$PROJECT_DIR$/tmp.py" />
         <option value="$PROJECT_DIR$/Q136_singleNumber.py" />
         <option value="$PROJECT_DIR$/TreeNode.py" />
         <option value="$PROJECT_DIR$/Q617_mergeTrees.py" />
         <option value="$PROJECT_DIR$/Q104_maxDepth.py" />
+        <option value="$PROJECT_DIR$/tmp.py" />
+        <option value="$PROJECT_DIR$/Q283_moveZeroes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="161" />
-    <option name="y" value="34" />
+    <option name="x" value="753" />
+    <option name="y" value="29" />
     <option name="width" value="1302" />
     <option name="height" value="803" />
   </component>
@@ -110,7 +101,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Python.Q136_singleNumber">
+  <component name="RunManager" selected="Python.tmp">
     <configuration default="false" name="Q121_MaxProfit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,8 +330,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Q136_singleNumber" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Q136_singleNumber" />
         <item index="2" class="java.lang.String" itemvalue="Python.TreeNode" />
         <item index="3" class="java.lang.String" itemvalue="Python.Q1_TwoSum" />
         <item index="4" class="java.lang.String" itemvalue="Python.Q121_MaxProfit" />
@@ -361,10 +352,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="161" y="34" width="1302" height="803" extended-state="0" />
-    <editor active="false" />
+    <frame x="753" y="29" width="1302" height="803" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17281106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17281106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5030722" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -471,14 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q136_singleNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RomanToInt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -495,6 +478,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Q136_singleNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TreeNode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -505,8 +496,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q283_moveZeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>
